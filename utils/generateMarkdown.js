@@ -17,17 +17,17 @@ function renderLicenseLink(license) {
     } else if(license == "Apache"){
         licenseLink = "This application is covered by the Apache license <br> [Link to Apache license](https://www.apache.org/licenses/LICENSE-2.0)"
     } else if(license == "Academic"){
-        licenseLink = "[Link to Academic license](https://opensource.org/licenses/AFL-3.0)"
+        licenseLink = "This application is covered by the Academic license <br> [Link to Academic license](https://opensource.org/licenses/AFL-3.0)"
     } else if(license == "GNU"){
-    licenseLink = "[Link to GNU license](https://www.gnu.org/licenses/gpl-3.0.en.html)"
+        licenseLink = "This application is covered by the GNU license <br> [Link to GNU license](https://www.gnu.org/licenses/gpl-3.0.en.html)"
     } else if(license == "ISC"){
-    licenseLink = "[Link to ISC license](https://opensource.org/licenses/ISC)"
+        licenseLink = "This application is covered by the ISC license <br> [Link to ISC license](https://opensource.org/licenses/ISC)"
     } else if(license == "MIT"){
-    licenseLink = "[Link to MIT license](https://www.mit.edu/~amini/LICENSE.md)"
+        licenseLink = "This application is covered by the MIT license <br> [Link to MIT license](https://www.mit.edu/~amini/LICENSE.md)"
     } else if(license == "Mozilla"){
-    licenseLink = "[Link to Mozilla license](https://www.mozilla.org/en-US/MPL/)"
+        licenseLink = "This application is covered by the Mozilla license <br> [Link to Mozilla license](https://www.mozilla.org/en-US/MPL/)"
     } else if(license == "Open"){
-    licenseLink = "[Link to Open license](https://www.microsoft.com/en-us/licensing/licensing-programs/open-license?activetab=open-license-tab%3aprimaryr2)"
+        licenseLink = "This application is covered by the Open license <br> [Link to Open license](https://www.microsoft.com/en-us/licensing/licensing-programs/open-license?activetab=open-license-tab%3aprimaryr2)"
     }
 }
 
