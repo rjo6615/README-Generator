@@ -51,6 +51,7 @@ function generateMarkdown(answers) {
 ${licenseBadge}
 
 ## Description
+
 ${answers.description}
 
 ## Table of Contents
@@ -100,5 +101,3 @@ Email me at: ${answers.email} for any questions
 }
 
 module.exports = generateMarkdown;
-
-
