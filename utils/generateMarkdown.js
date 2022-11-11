@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
     if(license == "None"){
        licenseBadge = "";
     } else {
-        licenseBadge = `![badge](https://img.shields.io/badge/license-${license}-lightblue)<br>`;
+        licenseBadge = `![badge](https://img.shields.io/badge/license-${license}-lightblue)`;
     }
 }
 
@@ -39,7 +39,7 @@ function renderLicenseSection(license) {
         licenseSection = "";
     } else {
         licenseSection = `## License<br><br>`;
-        spaceAbove = "<br><br>";
+        spaceAbove = "<br>";
     }
 }
 
