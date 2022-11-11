@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
     if(license == "None"){
        licenseBadge = "";
     } else {
-        licenseBadge = `![badge](https://img.shields.io/badge/license-${license}-lightblue)`;
+        licenseBadge = `![badge](https://img.shields.io/badge/license-${license}-lightblue)<br>`;
     }
 }
 
@@ -38,7 +38,7 @@ function renderLicenseSection(license) {
     if(license == "None"){
         licenseSection = "";
     } else {
-        licenseSection = `## License<br><br>`;
+        licenseSection = `## License<br>`;
         spaceAbove = "<br>";
     }
 }
@@ -72,8 +72,8 @@ ${answers.usage}
 ## Credits
 
 ${answers.credits}${spaceAbove}
-${licenseSection}${licenseBadge}
-${licenseLink}
+${licenseSection}
+${licenseBadge}${licenseLink}
 ## Features
 
 ${answers.features}
