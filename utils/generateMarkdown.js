@@ -33,12 +33,13 @@ function renderLicenseLink(license) {
 
 // Function that returns the license section of README
 // If there is no license, return an empty string
-let licenseFormat = "## License"; 
+let spaceAbove = "";
 function renderLicenseSection(license) {
     if(license == "None"){
         licenseSection = "";
     } else {
-        licenseSection = `<br><br>${licenseFormat}<br><br>`;
+        licenseSection = `## License<br><br>`;
+        spaceAbove = "<br><br>";
     }
 }
 
@@ -70,7 +71,7 @@ ${answers.usage}
 
 ## Credits
 
-${answers.credits}
+${answers.credits}${spaceAbove}
 ${licenseSection}${licenseBadge}${licenseLink}
 
 ## Features
