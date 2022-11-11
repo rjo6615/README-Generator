@@ -94,7 +94,7 @@ ${answers.tests}
 
 ## Questions
 
-My GitHub: [${answers.gitHub}](https://${answers.gitHub})<br>
+My GitHub: [${answers.gitHub}](https://github.com/${answers.gitHub})<br>
 Email me at: ${answers.email}
 `;
 }

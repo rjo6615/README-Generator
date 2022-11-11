@@ -70,7 +70,7 @@ inquirer
     {
         type: "input", 
         name: "gitHub", 
-        message: "Enter your GitHub:"
+        message: "Enter your GitHub username:"
     }
 ])
 .then((answers) => {
