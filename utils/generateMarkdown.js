@@ -37,7 +37,7 @@ function renderLicenseSection(license) {
     if(license == "None"){
         licenseSection = "";
     } else {
-        licenseSection = "<br>## License<br><br>";
+        licenseSection = "<br><br>## License<br><br>";
     }
 }
 
