@@ -61,6 +61,7 @@ ${answers.description}
 - [Features](#features)
 - [How to Contribute](#how-to-contribute)
 - [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 
@@ -90,6 +91,11 @@ ${answers.contribute}
 ## Tests
 
 ${answers.tests}
+
+## Questions
+
+[Link to my GitHub](${answers.gitHub})
+Email me at: ${answers.email}
 `;
 }
 
