@@ -60,6 +60,9 @@ ${answers.description}
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Features](#features)
+- [How to Contribute](#how-to-contribute)
+- [Tests](#tests)
 
 ## Installation
 
