@@ -3,7 +3,7 @@
 # fdsafdas
 
 ## Description
-fdsafsd
+fdsaf
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ fdsafsd
 
 ## Installation
 
-fdsafs
+fdsaf
 
 ## Usage
 
@@ -22,9 +22,9 @@ fdsaf
 
 ## Credits
 
-fdsafas<br>
-## License<br><br>![badge](https://img.shields.io/badge/license-Apache-lightblue)[Link to Apache license](https://www.apache.org/licenses/LICENSE-2.0)
-
+fdsaf<br>
+## License<br><br>![badge](https://img.shields.io/badge/license-Apache-lightblue)
+[Link to Apache license](https://www.apache.org/licenses/LICENSE-2.0)<br>
 ## Features
 
 fdsaf
