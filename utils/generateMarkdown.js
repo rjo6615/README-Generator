@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
     if(license == "None"){
        licenseBadge = "";
     } else {
-        licenseBadge = `![badge](https://img.shields.io/badge/license-${license}-lightblue)<br>`;
+        licenseBadge = `![badge](https://img.shields.io/badge/license-${license}-lightblue)`;
     }
 }
 
@@ -15,7 +15,7 @@ function renderLicenseLink(license) {
     if(license == "None"){
         licenseLink = "";
     } else if(license == "Apache"){
-        licenseLink = "[Link to Apache license](https://www.apache.org/licenses/LICENSE-2.0)"
+        licenseLink = "This application is covered by the Apache license <br> [Link to Apache license](https://www.apache.org/licenses/LICENSE-2.0)"
     } else if(license == "Academic"){
         licenseLink = "[Link to Academic license](https://opensource.org/licenses/AFL-3.0)"
     } else if(license == "GNU"){
@@ -48,6 +48,7 @@ function generateMarkdown(answers) {
     return`
     
 # ${answers.title}
+${licenseBadge}
 
 ## Description
 ${answers.description}
@@ -77,7 +78,6 @@ ${answers.credits}
 
 ${licenseSection}
 
-${licenseBadge}
 ${licenseLink}
 
 ## Features

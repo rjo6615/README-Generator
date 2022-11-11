@@ -1,9 +1,10 @@
 
     
-# fdsfda
+# fdsfdsa
+![badge](https://img.shields.io/badge/license-Apache-lightblue)
 
 ## Description
-fdsafa
+fdsafds
 
 ## Table of Contents
 
@@ -30,12 +31,11 @@ fdsaf
 
 ## License
 
-![badge](https://img.shields.io/badge/license-Apache-lightblue)<br>
-[Link to Apache license](https://www.apache.org/licenses/LICENSE-2.0)
+This application is covered by the Apache license <br> [Link to Apache license](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Features
 
-fdsaf
+fdsfa
 
 ## How to Contribute
 
@@ -43,9 +43,9 @@ fdsaf
 
 ## Tests
 
-fdsa
+fdsaf
 
 ## Questions
 
-My GitHub: [rjo6615](https://github.com/rjo6615)<br>
-Email me at: legendary6615@gmail.com
+My GitHub: [fdsf](https://github.com/fdsf)<br>
+Email me at: fdsf
