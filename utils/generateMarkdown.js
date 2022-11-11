@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
     if(license == "None"){
        licenseBadge = "";
     } else {
-        licenseBadge = `![badge](https://img.shields.io/badge/license-${license}-lightblue)`;
+        licenseBadge = `![badge](https://img.shields.io/badge/license-${license}-lightblue)<br>`;
     }
 }
 
