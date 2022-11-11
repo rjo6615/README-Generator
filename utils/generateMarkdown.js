@@ -14,10 +14,10 @@ function renderLicenseSection(license) {}
 function generateMarkdown(answers) {
     return`
     
-# ${answers.name}
+# ${answers.title}
 
 ## Description
-${answers.bio}
+${answers.description}
 
 ## Table of Contents
 
@@ -28,34 +28,33 @@ ${answers.bio}
 
 ## Installation
 
-${answers.location}
+${answers.installation}
 
 ## Usage
 
-${answers.linkedIn}
+${answers.usage}
 
 ## Credits
 
+${answers.credits}
 
 ## License
 
-![badge](https://img.shields.io/badge/license-{answer.license}-brightgreen)
+![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
 <br>
-This application is covered by the {answers.license} license. 
+This application is covered by the ${answers.license} license. 
 
 ## Features
 
-${answers.gitHub}
+${answers.features}
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+${answers.contribute}
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-
-
+${answers.tests}
 `;
 }
 
