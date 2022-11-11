@@ -1,9 +1,9 @@
 
     
-# fdsfdasfds
+# fdsafdsaf
 
 ## Description
-fdsfdsafdsds
+fdsfas
 
 ## Table of Contents
 
@@ -14,18 +14,19 @@ fdsfdsafdsds
 - [Features](#features)
 - [How to Contribute](#how-to-contribute)
 - [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 
-fdsfdsaf
+fdsfsad
 
 ## Usage
 
-fdsfdsafd
+fdsf
 
 ## Credits
 
-fdsfdasfdas
+fdsfa
 
 ## License
 
@@ -34,17 +35,17 @@ fdsfdasfdas
 
 ## Features
 
-fdsfdsafasd
+fdsfasd
 
 ## How to Contribute
 
-fdsfdsaf
+fdsf
 
 ## Tests
 
-fdsfdsfa
+fdsfa
 
 ## Questions
 
-[Link to my GitHub](github.com/rjo6615)
+My GitHub: [github.com/rjo6615](github.com/rjo6615)<br>
 Email me at: legendary6615@gmail.com
