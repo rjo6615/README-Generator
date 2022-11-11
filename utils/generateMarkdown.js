@@ -40,7 +40,7 @@ function renderLicenseSection(license) {
         licenseSection = `## License`;        
     }
 }
-
+// Function to generate README file
 function generateMarkdown(answers) {
     renderLicenseSection(answers.license);
     renderLicenseBadge(answers.license);

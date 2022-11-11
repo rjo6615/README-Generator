@@ -1,7 +1,9 @@
+// Global constants
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generateReadme = require("./utils/generateMarkdown")
 
+// Questions array
 function questions(){
 inquirer
 .prompt([
