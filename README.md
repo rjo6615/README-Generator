@@ -19,8 +19,9 @@ To run this project, the user needs to download the project then open the termin
 
 ## Usage
 
-To use this project, start by typing "node js" into the terminal. You will be propted with a series of
-questions regarding information that will display on your generated README.
+To use this project, start by typing "node index" into the terminal. You will be propted with a series of
+questions regarding information that will display on your generated README. Answer the questions accordingly and
+once they are finished, a "Saved!" message will show. Your generated README will appear in the main folder as "generatedREADME.md"
 
 Example gif is listed below:
 
