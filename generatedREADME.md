@@ -1,11 +1,11 @@
 
     
-# Test
-![badge](https://img.shields.io/badge/license-MIT-lightblue)
+# Sample Project
+![badge](https://img.shields.io/badge/license-Apache-lightblue)
 
 ## Description
 
-Short description
+This project is a sample
 
 ## Table of Contents
 
@@ -20,33 +20,33 @@ Short description
 
 ## Installation
 
-How to install
+Install by downloading the package
 
 ## Usage
 
-Test
+Generating a README file
 
 ## Credits
 
-Test
+Test@github
 
 ## License
 
-This application is covered by the MIT license <br> [Link to MIT license](https://www.mit.edu/~amini/LICENSE.md)
+This application is covered by the Apache license <br> [Link to Apache license](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Features
 
-Features
+Features listed here
 
 ## How to Contribute
 
-Contribute
+Contact me at my email
 
 ## Tests
 
-All tests
+Tests written here
 
 ## Questions
 
-My GitHub: [rjo6615](https://github.com/rjo6615)<br>
-Email me at: legendary6615@gmail.com for any questions
+My GitHub: [test](https://github.com/test)<br>
+Email me at: test@gmail.com for any questions

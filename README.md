@@ -26,6 +26,7 @@ once they are finished, a "Saved!" message will show. Your generated README will
 Example gif is listed below:
 
 ![Example](images/readme-generator.gif)
+Link to video: https://drive.google.com/file/d/1A0TkTrtYeW6w3QjoWfI5N34_L37HXS2z/view
 
 ## Credits
 
